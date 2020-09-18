@@ -1,0 +1,16 @@
+.home{
+    color:white;
+    background-size: cover;
+    width:100%;
+    height:70%;
+
+}
+#navbar{
+    padding-left: 300px;
+    padding-right: 300px;
+    color:white;
+    
+}
+#navbar:hover{
+    color:red;
+}
